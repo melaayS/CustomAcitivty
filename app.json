@@ -1,5 +1,5 @@
 {
-  "name": "Custom Activity",
+  "name": "Post Call Activity",
   "description": "A Marketing Cloud activity to send Post Messages to specified URLs",
   "repository": "https://github.com/balwillSFDC/sfmc-my-custom-acitivty",
   "keywords": ["node", "express", "static", "salesforce", "Marketing Cloud", "SFMC"],
